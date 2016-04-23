@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.amazon.com/Pro-18-Piece-Sketch-Draw-Pencil/dp/B000HTBB
 inLanguage: null
 keywords: []
 description: Pro Art Pencil
-datePublished: '2016-04-23T01:02:20.756Z'
-dateModified: '2016-04-23T01:01:50.285Z'
+datePublished: '2016-04-23T01:33:17.245Z'
+dateModified: '2016-04-23T01:02:32.986Z'
 title: ''
 author:
   - name: ''
