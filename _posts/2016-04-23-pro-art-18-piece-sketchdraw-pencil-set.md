@@ -6,12 +6,14 @@ isBasedOnUrl: 'http://www.amazon.com/Pro-18-Piece-Sketch-Draw-Pencil/dp/B000HTBB
 inLanguage: null
 keywords: []
 description: Pro Art Pencil
-datePublished: '2016-04-23T00:49:58.467Z'
-dateModified: '2016-04-23T00:49:55.227Z'
+datePublished: '2016-04-23T01:02:20.756Z'
+dateModified: '2016-04-23T01:01:50.285Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-23-pro-art-18-piece-sketchdraw-pencil-set.md
+published: true
 authors: []
 publisher:
   name: null
@@ -19,8 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-pro-art-18-piece-sketchdraw-pencil-set.md
-published: true
 _type: MediaObject
 
 ---
