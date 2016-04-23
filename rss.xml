@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[rainbow trader]]></title>
         <description><![CDATA[rainbow trader]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rainbow-trader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 00:50:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 00:55:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rainbow-trader/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b5a51a-90bd-49bc-8927-76d61d0b7806.jpg">]]></description>
+            <link>https://thegrid.ai/rainbow-trader/artists-colored-pencil/index.html</link>
+            <guid isPermaLink="false">7ae91aa0-6fd2-4a38-89e4-6acdfc9f9d44</guid>
+            <pubDate>Sat, 23 Apr 2016 00:54:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pro Art 18-Piece Sketch/Draw Pencil Set]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f6d176-0fd4-4c73-9a50-c1471e37c520.jpg" alt="Pro Art Pencil Drawing Set" title="" />]]></description>
