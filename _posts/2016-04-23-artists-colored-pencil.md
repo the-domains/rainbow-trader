@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Artist's Colored Pencil"
-datePublished: '2016-04-23T01:01:16.100Z'
-dateModified: '2016-04-23T01:00:42.364Z'
+datePublished: '2016-04-23T01:34:26.046Z'
+dateModified: '2016-04-23T01:01:25.091Z'
 title: 'Sargent Art 22-7251 Colored Pencils, Pack of 50, Assorted Colors'
 author:
   - name: ''
